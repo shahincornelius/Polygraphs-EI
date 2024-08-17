@@ -145,3 +145,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore these data folders.
+data/
+data2/
+data2_control/
+group_test/
+shuffle_test/
